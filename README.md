@@ -4,4 +4,4 @@ Landig page of a bank in which is used DOM manipulation to make each effect work
 
 The language learned in this course's project was JavaScript.
 
-This project was designed by my teacher Jonas Schmedtmann.
+This project was built by me, based on the online course The Complete JavaScript Course by professor Jonas Schmedtmann, who designed it and allowed me to use it for my personal learning and portfolio.
